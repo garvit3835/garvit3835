@@ -8,18 +8,18 @@
 ## 🚀 Professional Experience
 
 ### Full-Stack Developer Intern
-**NourishGenie** (February 2023 – July 2023)  
+**NourishGenie** 
 - Overhauled offline clinic module using React, Node.js, Express, MongoDB, Typescript, AWS, and Metronic-Template.
 - Implemented user-friendly appointment booking system, resulting in 50% time-saving.
 - Resolved over 40 major bugs, ensuring seamless operation.
 
 ### Backend Developer Intern
-**MathsLoyal** (March 2023 – April 2023)  
+**MathsLoyal** 
 - Designed backend using Next.js, Socket.io, Typescript, and MongoDB.
 - Developed real-time chatting system and payment gateway integration.
 
 ### Full-Stack Developer Intern
-**Matt Young Media** (May 2023 – July 2023)  
+**Matt Young Media**
 - Created password manager using Next.js, PostgreSQL, and AWS RDS.
 - Implemented rigorous security measures for data protection.
 
@@ -28,7 +28,7 @@
 - **Languages**: TypeScript, JavaScript, Python, YAML, Bash
 - **Frameworks**: Next.js, React, React Native, Node.js, Express
 - **Databases**: PostgreSQL, MongoDB, Redis, MySQL, Firebase
-- **DevOps**: Kubernetes, Terraform, Docker, CI/CD, GitHub Actions, AWS, GCP
+- **DevOps**: Kubernetes, Terraform, Docker, CI/CD, AWS, GCP
 - **Tools**: Redux, RESTful APIs, WebSockets, GraphQL, JWT
 - **Designing**: Tailwind CSS, Chart.js, Material UI, Bootstrap
 
